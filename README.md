@@ -1,5 +1,7 @@
 # Avante Android: Repositório Oficial do Podcast
 
+![Imagem do Podcast](Capa  Podcast 02.jpg)
+
 ## Bem-vindo ao Repositório Oficial do Podcast "Avante Android: Heróis da Programação Mobile"!
 
 Este repositório é o complemento perfeito para os episódios do nosso podcast, onde exploramos o universo do desenvolvimento Android de maneira divertida e acessível. Aqui, você encontrará:
