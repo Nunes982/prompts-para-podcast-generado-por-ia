@@ -28,6 +28,7 @@ Conteudo e titulo gerados pelo chatGPT, imagens geradas no site NigthCafé, text
 
 ## 🚀 Resultados
 Projeto realizado como desafio de projeto da DIO.me
+- [Avante Android](https://www.capcut.com/s/CQ17jpL7F5OfVIsb/)
 
 
 ### Fique Conectado
