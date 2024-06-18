@@ -1,6 +1,6 @@
 # Avante Android: Repositório Oficial do Podcast
 
-![Imagem do Podcast](Capa  Podcast 02.jpg)
+![Imagem do Podcast](https://creator.nightcafe.studio/creation/Ww7FFu7Ddj55ySWLCzmV?ru=RN3CJKUhA3Wts8XAAp5yfrEebsi2)
 
 ## Bem-vindo ao Repositório Oficial do Podcast "Avante Android: Heróis da Programação Mobile"!
 
