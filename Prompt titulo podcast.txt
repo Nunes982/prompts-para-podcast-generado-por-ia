@@ -1,0 +1,19 @@
+Roteirista
+
+Nome do podcast
+
+	>Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em desenvolvimento android e eu gostaria de uma ajuda sua para criar 5 sugestoes de nomes criativos para um podcast de desenvolvimento android e feito por nerds, e que tenha algum trocadilho nerd no nomes
+	
+	O podcast vai falar sobre dicas e novidades sobre o mundo do desenvolvimento android e o que está acontecendo no cenário.
+	
+{REGRAS}
+> O nome de ser enxuto, um nome e um subtitulo
+> O nome tenha algum trocadilho nerd com nomes de franquias como harry potter, Vingadores ou the witcher
+> O nome deve conter uma palavra forte , que remeta ao Desenvolvimento Android
+
+{REGRAS NEGATIVAS}
+> Não quero que o nome contenha paravras em inglês
+> Não quero que utilize nenhuma palavra desta lista: developer, Iniciante, avançado e programador
+
+	
+	

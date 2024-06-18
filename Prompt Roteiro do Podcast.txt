@@ -1,0 +1,25 @@
+Prompt roteiro com variaveis
+
+Vocé é um roteirista de podcast, e vamos criar  um roteiro de um podcast 
+de tecnologia, focado em Desenvolvimento Android cujo o nome é 
+" Avante Android: Heróis da Programação Mobile " e tem o foco em desenvolvimento 
+Android com o publico alvo de iniciantes em mobile Android
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+> no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções os videos do
+canal 'ei nerd', como se fossem escritos pelo Peter Jordan.
+> no bloco [CURIOSIDADE 1] substitua por uma curiosidade do desenvolvimento Android
+> no bloco [CURIOSIDADE 2] substitua por uma curiosidade sobre uma ferramenta para desenvolvimento Android
+> no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Anderson Nunes e esse foi o Avante Android dessa semana' 
+> use termos de fáceis explicações
+> O podcast vai ser apresentado somente por uma pessoa, chamada Anderson Nunes
+> O podcast deve sert curto
+{REGRAS NEGATIVAS}
+> Não use muitos termos técnicos
+> Não ultrapasse 5 minutos de duração
